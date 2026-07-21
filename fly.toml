@@ -1,4 +1,4 @@
-app = "m51-ambassadors"
+app = "m51-evangelists"
 primary_region = "dfw"
 
 [build]
